@@ -43,7 +43,7 @@
 module.exports = {
   service1: {
     api: '/photo-gallery/',
-    url: 'http://localhost:3001',
+    url: 'http://52.53.198.39:3001/',
     bundle: 'bundle.js',
   },
   service2: {
