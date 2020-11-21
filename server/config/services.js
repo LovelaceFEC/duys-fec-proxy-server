@@ -48,12 +48,12 @@ module.exports = {
   },
   service2: {
     api: '/calendar/',
-    url: 'http://localhost:3002',
+    url: 'http://18.191.211.232:3002/',
     bundle: 'bundle.js',
   },
   service3: {
     api: '/reviews/:id',
-    url: 'http://localhost:3003',
+    url: 'http://ec2-3-86-225-93.compute-1.amazonaws.com:3003/',
     bundle: 'bundle.js',
   },
 };
